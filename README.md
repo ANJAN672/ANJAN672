@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anjan672&label=Profile%20views&color=0e75b6&style=flat" alt="anjan672" /> </p>
 
-- 🌱 I’m currently learning *React js*
+- 🌱 I’m currently learning *Generative AI*
 
 - 📫 How to reach me **anjan.b.s.007@gmail.com**
 
