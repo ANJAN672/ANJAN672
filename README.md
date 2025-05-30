@@ -1,23 +1,66 @@
 <h1 align="center">Hi 👋, I'm ANJAN</h1>
-<h3 align="center">A passionate full-stack developer from India</h3>
-<!-- <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"> -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anjan672&label=Profile%20views&color=0e75b6&style=flat" alt="anjan672" /> </p>
+<div align="center">
 
-- 🌱 I’m currently learning *Generative AI*
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=26&duration=3000&pause=500&color=FDFEFE&background=2A2E3425&center=true&vCenter=true&&lines=AI+Researcher;LLMops;Full+Stack+Web+Dev;Open-Source+Contributor;Cloud+Developer;Gen+AI+Engineer)](https://git.io/typing-svg)
 
-- 📫 How to reach me **anjan.b.s.007@gmail.com**
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/anjan b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anjan b" height="30" width="40" /></a>
-<a href="https://instagram.com/rocky_anjan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rocky_anjan" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@anjan.b.s.007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@anjan.b.s.007" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/anjan672" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anjan672" height="30" width="40" /></a>
-</p>
+<!-- <a href="https://leetcode.com/adithya_s_k/"><img align="right" width="50%" src= 'https://user-images.githubusercontent.com/27956426/210167848-d2c9080a-9439-4254-82e1-98f163027204.png'/></a>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+- 🌐 Web development, machine learning, cloud computing, IoT, robotics, and drones—my passions in the tech realm.
+- 🌟 Always eager to learn, explore, and tackle real-world problems using innovative solutions.
+- 🎯 Consistent growth as a programmer through continuous learning and practice.
+- 🚀 AI development, LLM ops, devops, and LLM finetuning and deployment are my latest obsessions.
+- 💡 Practical learner who loves hands-on experimentation and embraces new challenges.
+- 🤝 Multitasker skilled at handling multiple responsibilities simultaneously.
+- 🌍 Firm believer in technology's power to make a positive impact.
+- 💼 Looking to collaborate on exciting projects and create something remarkable together!
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anjan672&show_icons=true&locale=en&layout=compact" alt="anjan672" /></p>
+In a nutshell, I'm an adventurous tech enthusiast with a focus on web development, machine learning, and the exciting world of AI. Let's connect and dive into the possibilities! -->
 
+<!-- ------------------------------------------------------------------------------------ -->
+<!-- Connect with me div -->
+<div>
+  <div align="center">
+  <!-- Github link -->
+    <a href="https://github.com/ANJAN672" target="_blank">
+      <img src=https://img.shields.io/badge/github-%232E3440.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+    </a>
+    <!-- Linkedin Link -->
+    <a href="https://www.linkedin.com/in/adithya-s-kolavi-127a561a8/" target="_blank">
+      <img src=https://img.shields.io/badge/linkedin-%232E3440.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+    </a>
+    <!-- Twitter link -->
+    <a href="https://twitter.com/adithya_s_k" target="_blank">
+      <img src=https://img.shields.io/badge/twitter-%232E3440.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+    </a>
+    <a href="">
+      <img src=https://img.shields.io/badge/follow-%232E87FB.svg?&style=for-the-badge&logo=&logoColor=white alt=follow style="margin-bottom: 5px;" />
+    </a>
+  </div>
+</div>
+
+<!-- <h1 align="center">GitHub Statistics 📃</h1> -->
+<table>
+  <tr>
+    <td colspan = "2"><a href="https://adithyask.com"><img width=100% src="https://github-profile-trophy.vercel.app/?username=adithya-s-k&hide_border=true&count_private=true&column=-1&theme=nord&no-frame=true"></a></td>
+  </tr>
+	<tr>
+		<td colspan = "2"><a href = "https://adithyask.com"><img src="https://github-readme-activity-graph.vercel.app/graph?username=ANJAN672&bg_color=2e3440&hide_border=true&point=false&line=88c0d0&radius=8&area=true&area_color=88c0d0&title_color=ffffff&color=ffffff"></a></td>
+	</tr>
+	<tr>
+<!-- 		<td><a href="https://adithyask.com"><img src="https://github-readme-streak-stats.herokuapp.com/?user=adithya-s-k&theme=nord"></a></td> -->
+<!-- 		<td><a href="https://adithyask.com"><img src="https://github-readme-streak-stats.herokuapp.com/?user=adithya-s-k&theme=nord_dark&hide_border=true"></a></td> -->
+		<td><a href="https://adithyask.com"><img src="https://streak-stats.demolab.com?user=ANJAN672&theme=nord&hide_border=true"></a></td>
+		<td><a href="https://adithyask.com"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ANJAN672&theme=nord_dark"></a></td>
+	</tr>
+	<!-- <tr>
+		<td><a href="https://adithyask.com"><img src="https://wakatime.com/share/@savatar/e7f4c18b-c280-4392-879c-b70f9fdd98e8.svg"></a>			</td>
+		<td><a href="https://adithyask.com"><img src="https://wakatime.com/share/@savatar/f8a8bf1d-a5f6-45f5-94e9-a7fd08ad7783.svg"></a>			</td>
+	</tr> -->
+	</table>
+<!-- ------------------------------------------------------------------------------------ -->
+
+<!-- ------------------------------------------------------------------------------------ -->
+</details>
