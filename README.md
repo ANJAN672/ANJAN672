@@ -28,11 +28,11 @@ In a nutshell, I'm an adventurous tech enthusiast with a focus on web developmen
       <img src=https://img.shields.io/badge/github-%232E3440.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
     </a>
     <!-- Linkedin Link -->
-    <a href="https://www.linkedin.com/in/adithya-s-kolavi-127a561a8/" target="_blank">
+    <a href="https://www.linkedin.com/in/anjan-b-35a884295/" target="_blank">
       <img src=https://img.shields.io/badge/linkedin-%232E3440.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
     </a>
     <!-- Twitter link -->
-    <a href="https://twitter.com/adithya_s_k" target="_blank">
+    <a href="https://x.com/anjan_046" target="_blank">
       <img src=https://img.shields.io/badge/twitter-%232E3440.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
     </a>
     <a href="">
@@ -47,13 +47,13 @@ In a nutshell, I'm an adventurous tech enthusiast with a focus on web developmen
     <td colspan = "2"><a href="https://adithyask.com"><img width=100% src="https://github-profile-trophy.vercel.app/?username=adithya-s-k&hide_border=true&count_private=true&column=-1&theme=nord&no-frame=true"></a></td>
   </tr>
 	<tr>
-		<td colspan = "2"><a href = "https://adithyask.com"><img src="https://github-readme-activity-graph.vercel.app/graph?username=ANJAN672&bg_color=2e3440&hide_border=true&point=false&line=88c0d0&radius=8&area=true&area_color=88c0d0&title_color=ffffff&color=ffffff"></a></td>
+		<td colspan = "2"><a href = "https://anjan672.github.io/My_Portfolio/"><img src="https://github-readme-activity-graph.vercel.app/graph?username=ANJAN672&bg_color=2e3440&hide_border=true&point=false&line=88c0d0&radius=8&area=true&area_color=88c0d0&title_color=ffffff&color=ffffff"></a></td>
 	</tr>
 	<tr>
 <!-- 		<td><a href="https://adithyask.com"><img src="https://github-readme-streak-stats.herokuapp.com/?user=adithya-s-k&theme=nord"></a></td> -->
 <!-- 		<td><a href="https://adithyask.com"><img src="https://github-readme-streak-stats.herokuapp.com/?user=adithya-s-k&theme=nord_dark&hide_border=true"></a></td> -->
-		<td><a href="https://adithyask.com"><img src="https://streak-stats.demolab.com?user=ANJAN672&theme=nord&hide_border=true"></a></td>
-		<td><a href="https://adithyask.com"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ANJAN672&theme=nord_dark"></a></td>
+		<td><a href="https://anjan672.github.io/My_Portfolio/"><img src="https://streak-stats.demolab.com?user=ANJAN672&theme=nord&hide_border=true"></a></td>
+		<td><a href="https://anjan672.github.io/My_Portfolio/"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ANJAN672&theme=nord_dark"></a></td>
 	</tr>
 	<!-- <tr>
 		<td><a href="https://adithyask.com"><img src="https://wakatime.com/share/@savatar/e7f4c18b-c280-4392-879c-b70f9fdd98e8.svg"></a>			</td>
