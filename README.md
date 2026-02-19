@@ -44,16 +44,26 @@ In a nutshell, I'm an adventurous tech enthusiast with a focus on web developmen
 <!-- <h1 align="center">GitHub Statistics 📃</h1> -->
 <table>
   <tr>
-    <td colspan = "2"><a href="https://anjan672.github.io/My_Portfolio/"><img width=100% src="https://github-profile-trophy.vercel.app/?username=ANJAN672&hide_border=true&count_private=true&column=-1&theme=nord&no-frame=true"></a></td>
+    <td colspan="2" align="center">
+      <a href="https://github.com/ANJAN672">
+        <img src="https://img.shields.io/github/followers/ANJAN672?style=for-the-badge&logo=github&labelColor=2e3440&color=88c0d0" alt="GitHub followers" />
+      </a>
+      <a href="https://github.com/ANJAN672?tab=repositories">
+        <img src="https://img.shields.io/github/stars/ANJAN672?style=for-the-badge&logo=github&label=stars&labelColor=2e3440&color=88c0d0" alt="GitHub stars" />
+      </a>
+      <a href="https://github.com/ANJAN672">
+        <img src="https://img.shields.io/badge/achievements-GitHub%20profile-88c0d0?style=for-the-badge&labelColor=2e3440&logo=trophy" alt="Achievements" />
+      </a>
+    </td>
   </tr>
 	<tr>
-		<td colspan = "2"><a href = "https://anjan672.github.io/My_Portfolio/"><img src="https://github-readme-activity-graph.vercel.app/graph?username=ANJAN672&bg_color=2e3440&hide_border=true&point=false&line=88c0d0&radius=8&area=true&area_color=88c0d0&title_color=ffffff&color=ffffff"></a></td>
+		<td colspan = "2"><a href = "https://anjan672.github.io/My_Portfolio/"><img src="https://github-readme-activity-graph.vercel.app/graph?username=ANJAN672&bg_color=2e3440&hide_border=true&point=false&line=88c0d0&radius=8&area=true&area_color=88c0d0&title_color=ffffff&color=ffffff" alt="Contribution graph"></a></td>
 	</tr>
 	<tr>
 <!-- 		<td><a href="https://adithyask.com"><img src="https://github-readme-streak-stats.herokuapp.com/?user=adithya-s-k&theme=nord"></a></td> -->
 <!-- 		<td><a href="https://adithyask.com"><img src="https://github-readme-streak-stats.herokuapp.com/?user=adithya-s-k&theme=nord_dark&hide_border=true"></a></td> -->
-		<td><a href="https://anjan672.github.io/My_Portfolio/"><img src="https://streak-stats.demolab.com?user=ANJAN672&theme=nord&hide_border=true"></a></td>
-		<td><a href="https://anjan672.github.io/My_Portfolio/"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ANJAN672&theme=nord_dark"></a></td>
+		<td><a href="https://anjan672.github.io/My_Portfolio/"><img src="https://streak-stats.demolab.com?user=ANJAN672&theme=nord&hide_border=true" alt="GitHub streak stats"></a></td>
+		<td><a href="https://anjan672.github.io/My_Portfolio/"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ANJAN672&theme=nord_dark" alt="Profile details"></a></td>
 	</tr>
 	<!-- <tr>
 		<td><a href="https://adithyask.com"><img src="https://wakatime.com/share/@savatar/e7f4c18b-c280-4392-879c-b70f9fdd98e8.svg"></a>			</td>
@@ -63,4 +73,3 @@ In a nutshell, I'm an adventurous tech enthusiast with a focus on web developmen
 <!-- ------------------------------------------------------------------------------------ -->
 
 <!-- ------------------------------------------------------------------------------------ -->
-</details>
